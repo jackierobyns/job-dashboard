@@ -1,3 +1,34 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "id": "test-job-001",
+      "title": "Test Operations Manager",
+      "company": "Dashboard Test",
+      "location": "Baltimore, MD",
+      "work_mode": "Remote",
+      "posted": "2026-08-28",
+      "verified_fresh": true,
+      "salary": "$100,000\u2013$120,000",
+      "salary_min": 100000,
+      "track": "Operations Leadership",
+      "fit": 99,
+      "source": "Dashboard connection test",
+      "url": "https://example.com",
+      "req": "TEST-001",
+      "why": [
+        "This is a temporary test record used only to confirm that the dashboard can read jobs.json."
+      ],
+      "gaps": [
+        "Not a real job posting."
+      ],
+      "keywords": [
+        "operations",
+        "project management",
+        "dashboard test"
+      ],
+      "summary": "Temporary dashboard test record. If you can see this card, the automatic jobs.json connection is working.",
+      "cover": "This is only a dashboard connection test.",
+      "status": "New"
+    }
+  ]
 }
