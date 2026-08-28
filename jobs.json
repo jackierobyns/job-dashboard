@@ -1,33 +1,182 @@
 {
+  "generated_at": "2026-08-28",
+  "criteria": {
+    "freshness": "posted within previous 48 hours",
+    "salary_floor": 75000,
+    "defense_clearance_roles": "excluded"
+  },
   "jobs": [
     {
-      "id": "test-job-001",
-      "title": "Test Operations Manager",
-      "company": "Dashboard Test",
+      "id": "md-labor-26-003184-0011",
+      "title": "Manager, Strategic Initiatives - Career-Connected Learning",
+      "company": "State of Maryland — Governor's Workforce Development Board",
       "location": "Baltimore, MD",
-      "work_mode": "Remote",
-      "posted": "2026-08-28",
+      "work_mode": "Telework eligible",
+      "posted": "2026-08-27",
       "verified_fresh": true,
-      "salary": "$100,000\u2013$120,000",
-      "salary_min": 100000,
-      "track": "Operations Leadership",
-      "fit": 99,
-      "source": "Dashboard connection test",
-      "url": "https://example.com",
-      "req": "TEST-001",
+      "salary": "$87,253",
+      "salary_min": 87253,
+      "track": "Workforce / Strategic Programs",
+      "fit": 97,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?R1=26&R2=003184&R3=0011&b=",
+      "req": "26-003184-0011",
       "why": [
-        "This is a temporary test record used only to confirm that the dashboard can read jobs.json."
+        "Exceptional overlap with Baltimore workforce-development program management and cross-sector partnerships.",
+        "Strong match for strategic initiatives, project management, data analysis, performance measurement and stakeholder engagement."
       ],
       "gaps": [
-        "Not a real job posting."
+        "The role centers specifically on career-connected learning and CTE/apprenticeship systems."
       ],
       "keywords": [
-        "operations",
+        "workforce development",
+        "strategic initiatives",
         "project management",
-        "dashboard test"
+        "career pathways",
+        "stakeholder engagement",
+        "data analysis"
       ],
-      "summary": "Temporary dashboard test record. If you can see this card, the automatic jobs.json connection is working.",
-      "cover": "This is only a dashboard connection test.",
+      "summary": "Senior operations and program management leader with 10+ years of experience directing workforce development, federal operations, healthcare initiatives, community partnerships, and data-driven performance improvement.",
+      "cover": "I am strongly interested in the Manager, Strategic Initiatives - Career-Connected Learning position because it closely aligns with my experience managing workforce-development programs and cross-sector partnerships.",
+      "status": "New"
+    },
+    {
+      "id": "md-mdh-26-005472-0008",
+      "title": "Senior Advisor for Strategic Communications & Public Engagement",
+      "company": "State of Maryland — Developmental Disabilities Administration",
+      "location": "Baltimore, MD",
+      "work_mode": "Telework eligible",
+      "posted": "2026-08-27",
+      "verified_fresh": true,
+      "salary": "$81,750–$128,924",
+      "salary_min": 81750,
+      "track": "Communications / Public Engagement",
+      "fit": 97,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?R1=26&R2=005472&R3=0008&b=",
+      "req": "26-005472-0008",
+      "why": [
+        "Direct alignment with communications education, government relations, community engagement and executive-support experience.",
+        "Healthcare/public-service background is highly relevant."
+      ],
+      "gaps": [
+        "Direct developmental-disabilities policy experience is not prominent."
+      ],
+      "keywords": [
+        "strategic communications",
+        "public engagement",
+        "media relations",
+        "government relations",
+        "stakeholder engagement",
+        "executive communications"
+      ],
+      "summary": "Strategic communications, public engagement, and operations leader with 10+ years of experience across healthcare, federal government, workforce development, community development, and government relations.",
+      "cover": "This opportunity closely matches the intersection of communications, government relations, healthcare, community engagement, and executive support that has defined much of my career.",
+      "status": "New"
+    },
+    {
+      "id": "md-mdh-26-005478-0031",
+      "title": "DDA External Affairs Director",
+      "company": "State of Maryland — Developmental Disabilities Administration",
+      "location": "Baltimore, MD",
+      "work_mode": "Telework eligible",
+      "posted": "2026-08-27",
+      "verified_fresh": true,
+      "salary": "$93,138–$146,883",
+      "salary_min": 93138,
+      "track": "Executive / External Affairs",
+      "fit": 96,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?R1=26&R2=005478&R3=0031&b=",
+      "req": "26-005478-0031",
+      "why": [
+        "Strong match for healthcare administration, government relations, public representation, strategic communications and executive leadership.",
+        "Your journalism/communications education and senior briefing experience align well."
+      ],
+      "gaps": [
+        "Developmental-disabilities policy knowledge is preferred and not explicit on the resume."
+      ],
+      "keywords": [
+        "external affairs",
+        "government relations",
+        "legislative affairs",
+        "public affairs",
+        "strategic communications",
+        "stakeholder relations"
+      ],
+      "summary": "Senior healthcare, government relations, communications, and operations professional with 10+ years of leadership experience spanning population health, community development, workforce development, federal operations, and public engagement.",
+      "cover": "The DDA External Affairs Director role strongly aligns with my background in healthcare, government relations, community development, strategic communications and executive support.",
+      "status": "New"
+    },
+    {
+      "id": "md-mdh-26-005476-0024",
+      "title": "Director of Prevention and Health Promotion",
+      "company": "State of Maryland — Queen Anne's County Department of Health",
+      "location": "Centreville, MD",
+      "work_mode": "On-site / local health department",
+      "posted": "2026-08-27",
+      "verified_fresh": true,
+      "salary": "$81,750–$128,924",
+      "salary_min": 81750,
+      "track": "Healthcare / Public Health",
+      "fit": 94,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?R1=26&R2=005476&R3=0024&b=",
+      "req": "26-005476-0024",
+      "why": [
+        "Population-health, community-health, grant-management and partnership experience align closely.",
+        "Strong fit for program administration, budget management and public-health leadership."
+      ],
+      "gaps": [
+        "Centreville is a longer commute from Baltimore.",
+        "Behavioral-health administration is more prominent than in your current resume."
+      ],
+      "keywords": [
+        "public health",
+        "health promotion",
+        "prevention programs",
+        "community health",
+        "grant management",
+        "budget management",
+        "program administration"
+      ],
+      "summary": "Healthcare and public-health program leader with 10+ years of experience managing population-health, community-health, grant-funded outreach, workforce-development and community-development initiatives.",
+      "cover": "My background in population health, community health and grant-funded program management aligns closely with the Director of Prevention and Health Promotion position.",
+      "status": "New"
+    },
+    {
+      "id": "arc-howard-senior-manager-operations-20260828",
+      "title": "Senior Manager, Operations",
+      "company": "The Arc of Howard County",
+      "location": "Ellicott City, MD",
+      "work_mode": "On-site",
+      "posted": "2026-08-28",
+      "verified_fresh": true,
+      "salary": "$85,000–$100,000",
+      "salary_min": 85000,
+      "track": "Operations Leadership",
+      "fit": 78,
+      "source": "Indeed / The Arc of Howard County",
+      "url": "https://www.indeed.com/viewjob?jk=35aa2044ce77009e",
+      "req": "",
+      "why": [
+        "Good overlap with operational leadership, vendor/contract management, procurement, technology coordination and process improvement.",
+        "Past healthcare projects involving construction, IT, telecommunications, contractors and vendors are relevant."
+      ],
+      "gaps": [
+        "Facilities/building systems and HVAC oversight are meaningful stretch areas."
+      ],
+      "keywords": [
+        "operations management",
+        "vendor management",
+        "contract management",
+        "facilities",
+        "technology infrastructure",
+        "procurement",
+        "budget management"
+      ],
+      "summary": "Senior operations and program-management leader with 10+ years of experience directing complex organizational operations, vendors and contractors, budgets, technology coordination, procurement support, projects, workforce initiatives and process improvement.",
+      "cover": "I am interested in the Senior Manager, Operations role because it brings together operational leadership, vendor and contract management, technology coordination, budgets and cross-functional project execution.",
       "status": "New"
     }
   ]
