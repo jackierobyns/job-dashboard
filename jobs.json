@@ -1,182 +1,363 @@
 {
-  "generated_at": "2026-08-28",
+  "generated_at": "2026-08-28T14:48:07.289593+00:00",
   "criteria": {
-    "freshness": "posted within previous 48 hours",
+    "freshness_hours": 48,
     "salary_floor": 75000,
-    "defense_clearance_roles": "excluded"
+    "defense_and_elevated_clearance_roles": "excluded",
+    "max_results": 10
   },
   "jobs": [
     {
-      "id": "md-labor-26-003184-0011",
-      "title": "Manager, Strategic Initiatives - Career-Connected Learning",
-      "company": "State of Maryland — Governor's Workforce Development Board",
-      "location": "Baltimore, MD",
-      "work_mode": "Telework eligible",
+      "id": "md-26-005478-0031",
+      "title": "DDA EXTERNAL AFFAIRS DIRECTOR ((Program Manager III))",
+      "company": "State of Maryland",
+      "location": "Baltimore City Telework Eligible Yes Go Back Apply View Benefits",
+      "work_mode": "See posting",
       "posted": "2026-08-27",
       "verified_fresh": true,
-      "salary": "$87,253",
-      "salary_min": 87253,
-      "track": "Workforce / Strategic Programs",
-      "fit": 97,
-      "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?R1=26&R2=003184&R3=0011&b=",
-      "req": "26-003184-0011",
-      "why": [
-        "Exceptional overlap with Baltimore workforce-development program management and cross-sector partnerships.",
-        "Strong match for strategic initiatives, project management, data analysis, performance measurement and stakeholder engagement."
-      ],
-      "gaps": [
-        "The role centers specifically on career-connected learning and CTE/apprenticeship systems."
-      ],
-      "keywords": [
-        "workforce development",
-        "strategic initiatives",
-        "project management",
-        "career pathways",
-        "stakeholder engagement",
-        "data analysis"
-      ],
-      "summary": "Senior operations and program management leader with 10+ years of experience directing workforce development, federal operations, healthcare initiatives, community partnerships, and data-driven performance improvement.",
-      "cover": "I am strongly interested in the Manager, Strategic Initiatives - Career-Connected Learning position because it closely aligns with my experience managing workforce-development programs and cross-sector partnerships.",
-      "status": "New"
-    },
-    {
-      "id": "md-mdh-26-005472-0008",
-      "title": "Senior Advisor for Strategic Communications & Public Engagement",
-      "company": "State of Maryland — Developmental Disabilities Administration",
-      "location": "Baltimore, MD",
-      "work_mode": "Telework eligible",
-      "posted": "2026-08-27",
-      "verified_fresh": true,
-      "salary": "$81,750–$128,924",
-      "salary_min": 81750,
-      "track": "Communications / Public Engagement",
-      "fit": 97,
-      "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?R1=26&R2=005472&R3=0008&b=",
-      "req": "26-005472-0008",
-      "why": [
-        "Direct alignment with communications education, government relations, community engagement and executive-support experience.",
-        "Healthcare/public-service background is highly relevant."
-      ],
-      "gaps": [
-        "Direct developmental-disabilities policy experience is not prominent."
-      ],
-      "keywords": [
-        "strategic communications",
-        "public engagement",
-        "media relations",
-        "government relations",
-        "stakeholder engagement",
-        "executive communications"
-      ],
-      "summary": "Strategic communications, public engagement, and operations leader with 10+ years of experience across healthcare, federal government, workforce development, community development, and government relations.",
-      "cover": "This opportunity closely matches the intersection of communications, government relations, healthcare, community engagement, and executive support that has defined much of my career.",
-      "status": "New"
-    },
-    {
-      "id": "md-mdh-26-005478-0031",
-      "title": "DDA External Affairs Director",
-      "company": "State of Maryland — Developmental Disabilities Administration",
-      "location": "Baltimore, MD",
-      "work_mode": "Telework eligible",
-      "posted": "2026-08-27",
-      "verified_fresh": true,
-      "salary": "$93,138–$146,883",
+      "salary": "$93,138.00 - $146,883.00/year",
       "salary_min": 93138,
-      "track": "Executive / External Affairs",
-      "fit": 96,
+      "track": "Communications / External Affairs",
+      "fit": 99,
       "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?R1=26&R2=005478&R3=0031&b=",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005478&R3=0031",
       "req": "26-005478-0031",
       "why": [
-        "Strong match for healthcare administration, government relations, public representation, strategic communications and executive leadership.",
-        "Your journalism/communications education and senior briefing experience align well."
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Connects well with your healthcare, population-health, and community-health background.",
+        "Aligns with your government-relations and public-facing stakeholder experience."
       ],
       "gaps": [
-        "Developmental-disabilities policy knowledge is preferred and not explicit on the resume."
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
       ],
       "keywords": [
-        "external affairs",
+        "program manager",
+        "strategy",
         "government relations",
-        "legislative affairs",
-        "public affairs",
+        "external affairs",
         "strategic communications",
-        "stakeholder relations"
+        "chief of staff",
+        "stakeholder",
+        "contracts"
       ],
-      "summary": "Senior healthcare, government relations, communications, and operations professional with 10+ years of leadership experience spanning population health, community development, workforce development, federal operations, and public engagement.",
-      "cover": "The DDA External Affairs Director role strongly aligns with my background in healthcare, government relations, community development, strategic communications and executive support.",
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the DDA EXTERNAL AFFAIRS DIRECTOR ((Program Manager III)) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
       "status": "New"
     },
     {
-      "id": "md-mdh-26-005476-0024",
-      "title": "Director of Prevention and Health Promotion",
-      "company": "State of Maryland — Queen Anne's County Department of Health",
-      "location": "Centreville, MD",
-      "work_mode": "On-site / local health department",
+      "id": "md-26-003184-0011",
+      "title": "Manager, Strategic Initiatives - Career-Connected Learning (Administrator V)",
+      "company": "State of Maryland",
+      "location": "Maryland",
+      "work_mode": "See posting",
       "posted": "2026-08-27",
       "verified_fresh": true,
-      "salary": "$81,750–$128,924",
-      "salary_min": 81750,
-      "track": "Healthcare / Public Health",
-      "fit": 94,
+      "salary": "$87,253.00",
+      "salary_min": 87253,
+      "track": "Workforce / Strategic Programs",
+      "fit": 99,
       "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?R1=26&R2=005476&R3=0024&b=",
-      "req": "26-005476-0024",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=003184&R3=0011",
+      "req": "26-003184-0011",
       "why": [
-        "Population-health, community-health, grant-management and partnership experience align closely.",
-        "Strong fit for program administration, budget management and public-health leadership."
+        "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience."
       ],
       "gaps": [
-        "Centreville is a longer commute from Baltimore.",
-        "Behavioral-health administration is more prominent than in your current resume."
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
       ],
       "keywords": [
-        "public health",
-        "health promotion",
-        "prevention programs",
-        "community health",
-        "grant management",
-        "budget management",
-        "program administration"
+        "operations",
+        "project management",
+        "strategic initiatives",
+        "strategy",
+        "workforce development",
+        "career pathways",
+        "continuous improvement",
+        "stakeholder",
+        "contracts",
+        "dashboard"
       ],
-      "summary": "Healthcare and public-health program leader with 10+ years of experience managing population-health, community-health, grant-funded outreach, workforce-development and community-development initiatives.",
-      "cover": "My background in population health, community health and grant-funded program management aligns closely with the Director of Prevention and Health Promotion position.",
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the Manager, Strategic Initiatives - Career-Connected Learning (Administrator V) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
       "status": "New"
     },
     {
-      "id": "arc-howard-senior-manager-operations-20260828",
-      "title": "Senior Manager, Operations",
-      "company": "The Arc of Howard County",
-      "location": "Ellicott City, MD",
-      "work_mode": "On-site",
-      "posted": "2026-08-28",
+      "id": "md-26-005472-0008",
+      "title": "Senior Advisor for Strategic Communications & Public Engagement ((Administrative Program Manager I))",
+      "company": "State of Maryland",
+      "location": "Baltimore City Telework Eligible Yes Go Back Apply View Benefits",
+      "work_mode": "See posting",
+      "posted": "2026-08-27",
       "verified_fresh": true,
-      "salary": "$85,000–$100,000",
-      "salary_min": 85000,
-      "track": "Operations Leadership",
-      "fit": 78,
-      "source": "Indeed / The Arc of Howard County",
-      "url": "https://www.indeed.com/viewjob?jk=35aa2044ce77009e",
-      "req": "",
+      "salary": "$81,750.00 - $128,924.00/year",
+      "salary_min": 81750,
+      "track": "Communications / External Affairs",
+      "fit": 99,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005472&R3=0008",
+      "req": "26-005472-0008",
       "why": [
-        "Good overlap with operational leadership, vendor/contract management, procurement, technology coordination and process improvement.",
-        "Past healthcare projects involving construction, IT, telecommunications, contractors and vendors are relevant."
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Connects well with your healthcare, population-health, and community-health background.",
+        "Leverages your communications education and executive/public communications experience."
       ],
       "gaps": [
-        "Facilities/building systems and HVAC oversight are meaningful stretch areas."
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
       ],
       "keywords": [
-        "operations management",
-        "vendor management",
-        "contract management",
-        "facilities",
-        "technology infrastructure",
-        "procurement",
-        "budget management"
+        "program manager",
+        "strategy",
+        "continuous improvement",
+        "public engagement",
+        "external affairs",
+        "strategic communications",
+        "chief of staff",
+        "stakeholder",
+        "contracts"
       ],
-      "summary": "Senior operations and program-management leader with 10+ years of experience directing complex organizational operations, vendors and contractors, budgets, technology coordination, procurement support, projects, workforce initiatives and process improvement.",
-      "cover": "I am interested in the Senior Manager, Operations role because it brings together operational leadership, vendor and contract management, technology coordination, budgets and cross-functional project execution.",
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the Senior Advisor for Strategic Communications & Public Engagement ((Administrative Program Manager I)) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    },
+    {
+      "id": "md-26-002588-0052",
+      "title": "Data Analyst (Administrator III)",
+      "company": "State of Maryland",
+      "location": "Maryland",
+      "work_mode": "See posting",
+      "posted": "2026-08-27",
+      "verified_fresh": true,
+      "salary": "$76,608.00 - $120,814.00/year",
+      "salary_min": 76608,
+      "track": "Technology / IT Operations",
+      "fit": 99,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002588&R3=0052",
+      "req": "26-002588-0052",
+      "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Connects well with your healthcare, population-health, and community-health background."
+      ],
+      "gaps": [
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
+      ],
+      "keywords": [
+        "operations",
+        "process improvement",
+        "stakeholder",
+        "contracts",
+        "power bi",
+        "dashboard",
+        "analytics",
+        "it operations"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the Data Analyst (Administrator III) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    },
+    {
+      "id": "md-26-004775-0003",
+      "title": "Director, Audit Response & Compliance Operations (DoIT Technology Platform Director I)",
+      "company": "State of Maryland",
+      "location": "Maryland",
+      "work_mode": "See posting",
+      "posted": "2026-08-27",
+      "verified_fresh": true,
+      "salary": "$67.15 - $73.98/hour",
+      "salary_min": 139672,
+      "track": "Technology / IT Operations",
+      "fit": 97,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=004775&R3=0003",
+      "req": "26-004775-0003",
+      "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Connects well with your healthcare, population-health, and community-health background."
+      ],
+      "gaps": [
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
+      ],
+      "keywords": [
+        "operations",
+        "process improvement",
+        "continuous improvement",
+        "stakeholder",
+        "contracts",
+        "it operations"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the Director, Audit Response & Compliance Operations (DoIT Technology Platform Director I) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    },
+    {
+      "id": "md-26-005485-0021",
+      "title": "CHIEF PROGRAM OFFICER ((Program Manager Senior IV))",
+      "company": "State of Maryland",
+      "location": "Baltimore City Telework Eligible Yes Go Back Apply View Benefits",
+      "work_mode": "See posting",
+      "posted": "2026-08-27",
+      "verified_fresh": true,
+      "salary": "$128,818.00 - $203,150.00/year",
+      "salary_min": 128818,
+      "track": "Program / Project",
+      "fit": 97,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005485&R3=0021",
+      "req": "26-005485-0021",
+      "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Connects well with your healthcare, population-health, and community-health background."
+      ],
+      "gaps": [
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
+      ],
+      "keywords": [
+        "operations",
+        "program manager",
+        "strategy",
+        "continuous improvement",
+        "grants",
+        "contracts"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the CHIEF PROGRAM OFFICER ((Program Manager Senior IV)) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    },
+    {
+      "id": "md-26-005485-0020",
+      "title": "CHIEF OPERATING OFFICER ((Program Manager Senior IV))",
+      "company": "State of Maryland",
+      "location": "Baltimore City Telework Eligible Yes Go Back Apply View Benefits",
+      "work_mode": "See posting",
+      "posted": "2026-08-27",
+      "verified_fresh": true,
+      "salary": "$128,818.00 - $203,150.00/year",
+      "salary_min": 128818,
+      "track": "Program / Project",
+      "fit": 91,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005485&R3=0020",
+      "req": "26-005485-0020",
+      "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Connects well with your healthcare, population-health, and community-health background."
+      ],
+      "gaps": [
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
+      ],
+      "keywords": [
+        "operations",
+        "program manager",
+        "strategy",
+        "continuous improvement",
+        "contracts"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the CHIEF OPERATING OFFICER ((Program Manager Senior IV)) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    },
+    {
+      "id": "md-26-004488-0015",
+      "title": "SENIOR SALESFORCE BUSINESS ANALYST , CONTRACTUAL (IT Systems Technical Specialist)",
+      "company": "State of Maryland",
+      "location": "Maryland",
+      "work_mode": "See posting",
+      "posted": "2026-08-27",
+      "verified_fresh": true,
+      "salary": "$55.53 - $67.69/hour",
+      "salary_min": 115502,
+      "track": "Program / Project",
+      "fit": 89,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=004488&R3=0015",
+      "req": "26-004488-0015",
+      "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience."
+      ],
+      "gaps": [
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
+      ],
+      "keywords": [
+        "operations",
+        "project manager",
+        "stakeholder",
+        "contracts",
+        "dashboard",
+        "analytics"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the SENIOR SALESFORCE BUSINESS ANALYST , CONTRACTUAL (IT Systems Technical Specialist) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    },
+    {
+      "id": "md-26-000640-0001",
+      "title": "OSH COMPLIANCE HYGIENIST SUPERVISOR",
+      "company": "State of Maryland",
+      "location": "Maryland",
+      "work_mode": "See posting",
+      "posted": "2026-08-28",
+      "verified_fresh": true,
+      "salary": "$106,087.00- $131,913 potential growth to $167,304/year (Salary guidelines apply.)",
+      "salary_min": 106087,
+      "track": "Operations Leadership",
+      "fit": 72,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=000640&R3=0001",
+      "req": "26-000640-0001",
+      "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Connects well with your healthcare, population-health, and community-health background."
+      ],
+      "gaps": [
+        "This is a stretch match; review the mandatory qualifications carefully before applying."
+      ],
+      "keywords": [
+        "operations",
+        "grants",
+        "contracts"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the OSH COMPLIANCE HYGIENIST SUPERVISOR opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    },
+    {
+      "id": "md-26-003031-0006",
+      "title": "ASSESSOR MANAGER, COMMERCIAL AND INDUSTRIAL",
+      "company": "State of Maryland",
+      "location": "Maryland",
+      "work_mode": "See posting",
+      "posted": "2026-08-27",
+      "verified_fresh": true,
+      "salary": "$81,750.00 - $128,924.00/year",
+      "salary_min": 81750,
+      "track": "Healthcare / Public Health",
+      "fit": 66,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=003031&R3=0006",
+      "req": "26-003031-0006",
+      "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Connects well with your healthcare, population-health, and community-health background."
+      ],
+      "gaps": [
+        "This is a stretch match; review the mandatory qualifications carefully before applying."
+      ],
+      "keywords": [
+        "operations",
+        "contracts"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the ASSESSOR MANAGER, COMMERCIAL AND INDUSTRIAL opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
       "status": "New"
     }
   ]
