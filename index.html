@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Jacquetta Robinson — Job Dashboard</title>
+<style>
+:root{--bg:#0c1117;--panel:#151b23;--panel2:#1d2630;--text:#eef4fb;--muted:#9aa7b4;--gold:#d8af52;--green:#4ac26b;--line:#2b3642}
+*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,sans-serif;background:var(--bg);color:var(--text)}
+header{padding:26px max(22px,4vw) 18px;border-bottom:1px solid var(--line);background:linear-gradient(180deg,#111923,var(--bg))}
+h1{margin:0 0 6px;font-size:clamp(30px,4vw,44px)}.subtitle{color:var(--muted);max-width:950px;line-height:1.5}
+.wrap{padding:20px max(22px,4vw)}.statusbar{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px;margin-bottom:14px}
+.controls{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:9px;margin-bottom:14px}
+input,select,textarea{width:100%;background:#0d131a;color:var(--text);border:1px solid var(--line);border-radius:9px;padding:9px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:17px;margin-bottom:12px}
+.head{display:flex;justify-content:space-between;gap:16px}.title{font-size:20px;font-weight:800}.company{color:var(--muted)}
+.score{background:var(--panel2);border:1px solid var(--line);border-radius:12px;padding:8px 12px;text-align:center;min-width:68px}.score strong{font-size:22px}
+.meta{display:flex;gap:7px;flex-wrap:wrap;margin:11px 0}.pill{border:1px solid var(--line);border-radius:999px;padding:5px 8px;font-size:12px}.fresh{color:#7ee787;border-color:#2b7a3f}.salary{color:#e5bd66;border-color:#765e2f}
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:14px}ul{margin:7px 0 0;padding-left:19px;line-height:1.45;color:#dce4ed}
+details{border-top:1px solid var(--line);margin-top:11px;padding-top:9px}summary{cursor:pointer;font-weight:750}
+.copybox{background:#0d131a;border:1px solid var(--line);border-radius:10px;padding:11px;line-height:1.5;white-space:pre-wrap;margin-top:8px}
+.actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:11px}button,.btn{border:1px solid var(--line);background:var(--panel2);color:var(--text);border-radius:9px;padding:9px 12px;font-weight:700;cursor:pointer;text-decoration:none}.primary{background:var(--gold)!important;color:#17130a!important;border-color:var(--gold)!important}
+.kpis{display:grid;grid-template-columns:repeat(5,1fr);gap:9px;margin-bottom:14px}.kpi{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:11px}.kpi strong{display:block;font-size:22px}.small{font-size:12px;color:var(--muted)}
+@media(max-width:800px){.controls,.kpis{grid-template-columns:1fr 1fr}.cols{grid-template-columns:1fr}}@media(max-width:520px){.controls,.kpis{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header>
+<h1>Master Job Search Dashboard</h1>
+<div class="subtitle">Fresh civilian opportunities paying $75K+, matched to your operations, program/project management, healthcare, public-sector and technical-operations background.</div>
+</header>
+<div class="wrap">
+<div class="statusbar"><strong>Feed status:</strong> <span id="feedStatus">Loading jobs.json…</span></div>
+
+<div class="kpis">
+<div class="kpi"><strong id="kTotal">0</strong><span class="small">jobs</span></div>
+<div class="kpi"><strong id="kNew">0</strong><span class="small">new</span></div>
+<div class="kpi"><strong id="kSaved">0</strong><span class="small">saved</span></div>
+<div class="kpi"><strong id="kApplied">0</strong><span class="small">applied</span></div>
+<div class="kpi"><strong id="kInterview">0</strong><span class="small">interviews</span></div>
+</div>
+
+<div class="controls">
+<input id="search" placeholder="Search title, company, keyword…" oninput="render()">
+<select id="track" onchange="render()"><option value="">All tracks</option></select>
+<select id="statusFilter" onchange="render()"><option value="">All statuses</option><option>New</option><option>Saved</option><option>Applying</option><option>Applied</option><option>Interview</option><option>Offer</option><option>Skip</option></select>
+<select id="minfit" onchange="render()"><option value="0">Any fit</option><option value="70">70%+</option><option value="80">80%+</option><option value="85">85%+</option><option value="90">90%+</option></select>
+</div>
+
+<div id="cards"></div>
+</div>
+
+<script>
+const STATUS=["New","Saved","Applying","Applied","Interview","Offer","Skip"];
+let jobs=[];
+const STATEKEY="jr_job_state_v3";
+
+function getState(){try{return JSON.parse(localStorage.getItem(STATEKEY)||"{}")}catch{return {}}}
+function saveState(s){localStorage.setItem(STATEKEY,JSON.stringify(s))}
+function stateFor(id){const s=getState();return s[id]||{status:"New",notes:""}}
+function setStatus(id,v){const s=getState();s[id]=s[id]||{status:"New",notes:""};s[id].status=v;saveState(s);render()}
+function setNotes(id,v){const s=getState();s[id]=s[id]||{status:"New",notes:""};s[id].notes=v;saveState(s)}
+function esc(s){return String(s??"").replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]))}
+function copyText(t){navigator.clipboard.writeText(t)}
+function fmtDate(x){if(!x)return "Date unavailable";const d=new Date(x+"T12:00:00");return isNaN(d)?x:d.toLocaleDateString([], {year:"numeric",month:"short",day:"numeric"})}
+
+async function loadJobs(){
+  const status=document.getElementById("feedStatus");
+  try{
+    const res=await fetch("./jobs.json?v="+Date.now(),{cache:"no-store"});
+    if(!res.ok) throw new Error("HTTP "+res.status);
+    const data=await res.json();
+    jobs=Array.isArray(data)?data:(Array.isArray(data.jobs)?data.jobs:[]);
+    status.textContent=`Connected — ${jobs.length} job${jobs.length===1?"":"s"} loaded from jobs.json`;
+    populateTracks();
+    render();
+  }catch(err){
+    status.textContent="Could not load jobs.json: "+err.message;
+    document.getElementById("cards").innerHTML='<div class="card">The dashboard could not read jobs.json.</div>';
+  }
+}
+
+function populateTracks(){
+  const sel=document.getElementById("track"), current=sel.value;
+  const tracks=[...new Set(jobs.map(j=>j.track).filter(Boolean))].sort();
+  sel.innerHTML='<option value="">All tracks</option>'+tracks.map(t=>`<option>${esc(t)}</option>`).join("");
+  sel.value=current;
+}
+
+function render(){
+  const q=document.getElementById("search").value.toLowerCase();
+  const track=document.getElementById("track").value;
+  const sf=document.getElementById("statusFilter").value;
+  const mf=+document.getElementById("minfit").value;
+  let list=jobs.filter(j=>{
+    const st=stateFor(j.id).status;
+    const hay=[j.title,j.company,j.location,j.track,...(j.keywords||[])].join(" ").toLowerCase();
+    return (!track||j.track===track)&&(!sf||st===sf)&&(j.fit||0)>=mf&&hay.includes(q);
+  }).sort((a,b)=>(b.fit||0)-(a.fit||0));
+
+  document.getElementById("cards").innerHTML=list.map(j=>{
+    const st=stateFor(j.id);
+    return `<article class="card">
+      <div class="head">
+        <div><div class="title">${esc(j.title)}</div><div class="company">${esc(j.company)} · ${esc(j.location||"")}</div></div>
+        <div class="score"><strong>${j.fit??"—"}</strong><div class="small">fit</div></div>
+      </div>
+      <div class="meta">
+        ${j.verified_fresh?`<span class="pill fresh">Fresh verified · ${fmtDate(j.posted)}</span>`:""}
+        <span class="pill salary">${esc(j.salary||"Salary unavailable")}</span>
+        ${j.track?`<span class="pill">${esc(j.track)}</span>`:""}
+        ${j.work_mode?`<span class="pill">${esc(j.work_mode)}</span>`:""}
+      </div>
+      <div class="cols">
+        <div><b>Why you fit</b><ul>${(j.why||[]).map(x=>`<li>${esc(x)}</li>`).join("")}</ul></div>
+        <div><b>Gaps / verify first</b><ul>${(j.gaps||[]).map(x=>`<li>${esc(x)}</li>`).join("")}</ul></div>
+      </div>
+      <details><summary>ATS keywords</summary><div class="meta">${(j.keywords||[]).map(x=>`<span class="pill">${esc(x)}</span>`).join("")}</div></details>
+      <details><summary>Tailored professional summary</summary><div class="copybox">${esc(j.summary||"")}</div><div class="actions"><button onclick='copyText(${JSON.stringify(j.summary||"")})'>Copy summary</button></div></details>
+      <details><summary>Tailored cover-note starter</summary><div class="copybox">${esc(j.cover||"")}</div><div class="actions"><button onclick='copyText(${JSON.stringify(j.cover||"")})'>Copy note</button></div></details>
+      <details><summary>Application notes</summary><textarea oninput="setNotes('${esc(j.id)}',this.value)" placeholder="Recruiter, follow-up, interview date, etc.">${esc(st.notes||"")}</textarea></details>
+      <div class="actions">
+        ${j.url?`<a class="btn primary" href="${esc(j.url)}" target="_blank" rel="noopener">Open application</a>`:""}
+        <select onchange="setStatus('${esc(j.id)}',this.value)">${STATUS.map(x=>`<option ${x===st.status?"selected":""}>${x}</option>`).join("")}</select>
+      </div>
+    </article>`;
+  }).join("") || '<div class="card">No jobs match the current filters.</div>';
+
+  const states=jobs.map(j=>stateFor(j.id).status);
+  document.getElementById("kTotal").textContent=jobs.length;
+  document.getElementById("kNew").textContent=states.filter(x=>x==="New").length;
+  document.getElementById("kSaved").textContent=states.filter(x=>x==="Saved").length;
+  document.getElementById("kApplied").textContent=states.filter(x=>x==="Applied").length;
+  document.getElementById("kInterview").textContent=states.filter(x=>x==="Interview").length;
+}
+loadJobs();
+</script>
+</body>
+</html>
