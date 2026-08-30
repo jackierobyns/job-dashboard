@@ -1,76 +1,10 @@
 {
-  "generated_at": "2026-08-29T13:01:02.439967+00:00",
+  "generated_at": "2026-08-30T13:01:12.557799+00:00",
   "criteria": {
     "freshness_hours": 48,
     "salary_floor": 75000,
     "defense_and_elevated_clearance_roles": "excluded",
     "max_results": 10
   },
-  "jobs": [
-    {
-      "id": "md-26-009627-0002",
-      "title": "EXEC VII (Director, Land and Materials Administration)",
-      "company": ".Â Click here to learn more about MDE. Â Â Â",
-      "location": "Maryland",
-      "work_mode": "See posting",
-      "posted": "2026-08-28",
-      "verified_fresh": true,
-      "salary": "$126,442.00 - $190,148.00/year",
-      "salary_min": 126442,
-      "track": "Workforce / Strategic Programs",
-      "fit": 78,
-      "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=009627&R3=0002",
-      "req": "26-009627-0002",
-      "why": [
-        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
-        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience.",
-        "Directly relevant to your workforce-development program experience in Baltimore."
-      ],
-      "gaps": [
-        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
-      ],
-      "keywords": [
-        "program management",
-        "strategy",
-        "stakeholder",
-        "contracts"
-      ],
-      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the EXEC VII (Director, Land and Materials Administration) opportunity with .Â Click here to learn more about MDE. Â Â Â because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
-      "status": "New"
-    },
-    {
-      "id": "md-26-000640-0001",
-      "title": "OSH COMPLIANCE HYGIENIST SUPERVISOR",
-      "company": "State of Maryland",
-      "location": "Maryland",
-      "work_mode": "See posting",
-      "posted": "2026-08-28",
-      "verified_fresh": true,
-      "salary": "$106,087.00- $131,913 potential growth to $167,304/year (Salary guidelines apply.)",
-      "salary_min": 106087,
-      "track": "Operations Leadership",
-      "fit": 72,
-      "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=000640&R3=0001",
-      "req": "26-000640-0001",
-      "why": [
-        "Strong overlap with your senior operations leadership and process-improvement background.",
-        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
-        "Connects well with your healthcare, population-health, and community-health background."
-      ],
-      "gaps": [
-        "This is a stretch match; review the mandatory qualifications carefully before applying."
-      ],
-      "keywords": [
-        "operations",
-        "grants",
-        "contracts"
-      ],
-      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the OSH COMPLIANCE HYGIENIST SUPERVISOR opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
-      "status": "New"
-    }
-  ]
+  "jobs": []
 }
