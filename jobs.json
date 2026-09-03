@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T13:01:36.667913+00:00",
+  "generated_at": "2026-09-03T13:01:29.160659+00:00",
   "criteria": {
     "freshness_hours": 48,
     "salary_floor": 75000,
@@ -8,220 +8,55 @@
   },
   "jobs": [
     {
-      "id": "md-26-002589-0010",
-      "title": "SENIOR REGULATORY ADVISOR (ADMINISTRATOR IV)",
+      "id": "md-26-004488-0018",
+      "title": "SENIOR SALESFORCE QUALITY ANALYST , CONTRACTUAL (IT Systems Tenchincal Specialist)",
       "company": "State of Maryland",
       "location": "Maryland",
       "work_mode": "See posting",
-      "posted": "2026-09-01",
+      "posted": "2026-09-02",
       "verified_fresh": true,
-      "salary": "$81,750.00 - $128,924.00/year",
-      "salary_min": 81750,
-      "track": "Healthcare / Public Health",
-      "fit": 95,
+      "salary": "$55.53 - $67.69/hour",
+      "salary_min": 115502,
+      "track": "Operations Leadership",
+      "fit": 71,
       "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002589&R3=0010",
-      "req": "26-002589-0010",
-      "why": [
-        "Strong overlap with your senior operations leadership and process-improvement background.",
-        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
-        "Connects well with your healthcare, population-health, and community-health background."
-      ],
-      "gaps": [
-        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
-      ],
-      "keywords": [
-        "operations",
-        "public health",
-        "chief of staff",
-        "contracts",
-        "it operations"
-      ],
-      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the SENIOR REGULATORY ADVISOR (ADMINISTRATOR IV) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
-      "status": "New"
-    },
-    {
-      "id": "md-26-002578-0009",
-      "title": "ADMINISTRATOR V SUPERVISOR",
-      "company": "State of Maryland",
-      "location": "Baltimore City Telework Eligible Yes Go Back Apply View Benefits",
-      "work_mode": "See posting",
-      "posted": "2026-09-01",
-      "verified_fresh": true,
-      "salary": "$87,253.00 - $112,878.00/year, with potential growth to $137,603.00/year",
-      "salary_min": 87253,
-      "track": "Communications / External Affairs",
-      "fit": 93,
-      "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002578&R3=0009",
-      "req": "26-002578-0009",
-      "why": [
-        "Strong overlap with your senior operations leadership and process-improvement background.",
-        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
-        "Connects well with your healthcare, population-health, and community-health background."
-      ],
-      "gaps": [
-        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
-      ],
-      "keywords": [
-        "operations",
-        "process improvement",
-        "stakeholder",
-        "contracts",
-        "analytics",
-        "it operations"
-      ],
-      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the ADMINISTRATOR V SUPERVISOR opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
-      "status": "New"
-    },
-    {
-      "id": "md-26-005479-0025",
-      "title": "Deputy Director Finance Subsidies & Payments - Early Childhood (Program Manager IV)",
-      "company": "State of Maryland",
-      "location": "Maryland",
-      "work_mode": "See posting",
-      "posted": "2026-09-01",
-      "verified_fresh": true,
-      "salary": "$99,442.00 - $156,822.00/year",
-      "salary_min": 99442,
-      "track": "Communications / External Affairs",
-      "fit": 85,
-      "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005479&R3=0025",
-      "req": "26-005479-0025",
-      "why": [
-        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
-        "Leverages your communications education and executive/public communications experience.",
-        "Matches your grant administration, review, compliance, and reporting experience."
-      ],
-      "gaps": [
-        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
-      ],
-      "keywords": [
-        "program manager",
-        "process improvement",
-        "grants",
-        "contracts"
-      ],
-      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the Deputy Director Finance Subsidies & Payments - Early Childhood (Program Manager IV) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
-      "status": "New"
-    },
-    {
-      "id": "md-25-005477-0034",
-      "title": "Deputy Director, Metro-Anne Arundel and Prince George's County (PROGRAM MANAGER II)",
-      "company": "or other state agencies. If you are in State service and are a promotional candidate, your",
-      "location": "Maryland",
-      "work_mode": "See posting",
-      "posted": "2026-09-01",
-      "verified_fresh": true,
-      "salary": "$87,253.00 - $112,878.00/year with potential growth to $137,603.00/year",
-      "salary_min": 87253,
-      "track": "Program / Project",
-      "fit": 78,
-      "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=25&R2=005477&R3=0034",
-      "req": "25-005477-0034",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=004488&R3=0018",
+      "req": "26-004488-0018",
       "why": [
         "Strong overlap with your senior operations leadership and process-improvement background.",
         "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
         "Matches your project-management, scheduling, stakeholder, and executive-reporting experience."
       ],
       "gaps": [
-        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
+        "This is a stretch match; review the mandatory qualifications carefully before applying."
       ],
       "keywords": [
         "operations",
-        "program manager",
+        "strategy",
         "contracts"
       ],
       "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the Deputy Director, Metro-Anne Arundel and Prince George's County (PROGRAM MANAGER II) opportunity with or other state agencies. If you are in State service and are a promotional candidate, your because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "cover": "I am interested in the SENIOR SALESFORCE QUALITY ANALYST , CONTRACTUAL (IT Systems Tenchincal Specialist) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
       "status": "New"
     },
     {
-      "id": "md-26-004471-0004",
-      "title": "SENIOR (MAINFRAME) PROGRAMMER ANALYST - CLAIMS TEAM (IT PROGRAMMER ANALYST, LEAD/ ADVANCED (FULL-TIME CONTRACTUAL))",
-      "company": "State of Maryland",
-      "location": "Baltimore City Go Back Apply View Benefits Introduction",
-      "work_mode": "See posting",
-      "posted": "2026-09-01",
-      "verified_fresh": true,
-      "salary": "$41.83 - $54.12/hour, with potential growth to $65.97/hour",
-      "salary_min": 87006,
-      "track": "Healthcare / Public Health",
-      "fit": 75,
-      "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=004471&R3=0004",
-      "req": "26-004471-0004",
-      "why": [
-        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
-        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience.",
-        "Connects well with your healthcare, population-health, and community-health background."
-      ],
-      "gaps": [
-        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
-      ],
-      "keywords": [
-        "public health",
-        "contracts",
-        "it program"
-      ],
-      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the SENIOR (MAINFRAME) PROGRAMMER ANALYST - CLAIMS TEAM (IT PROGRAMMER ANALYST, LEAD/ ADVANCED (FULL-TIME CONTRACTUAL)) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
-      "status": "New"
-    },
-    {
-      "id": "md-26-004470-0001",
-      "title": "SENIOR (MAINFRAME) PROGRAMMER ANALYST (IT PROGRAMMER ANALYST II (FULL-TIME CONTRACTUAL))",
-      "company": "State of Maryland",
-      "location": "Baltimore City Go Back Apply View Benefits Introduction",
-      "work_mode": "See posting",
-      "posted": "2026-09-01",
-      "verified_fresh": true,
-      "salary": "$39.20 - $50.71/hour, with potential growth to $61.81/hour",
-      "salary_min": 81536,
-      "track": "Healthcare / Public Health",
-      "fit": 75,
-      "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=004470&R3=0001",
-      "req": "26-004470-0001",
-      "why": [
-        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
-        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience.",
-        "Connects well with your healthcare, population-health, and community-health background."
-      ],
-      "gaps": [
-        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
-      ],
-      "keywords": [
-        "public health",
-        "contracts",
-        "it program"
-      ],
-      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the SENIOR (MAINFRAME) PROGRAMMER ANALYST (IT PROGRAMMER ANALYST II (FULL-TIME CONTRACTUAL)) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
-      "status": "New"
-    },
-    {
-      "id": "md-26-004551-0003",
-      "title": "ACCOUNTANT SUPERVISOR I",
+      "id": "md-26-002481-0001",
+      "title": "MINORITY BUSINESS ENTERPRISE OFFICER II",
       "company": "State of Maryland",
       "location": "Maryland",
       "work_mode": "See posting",
-      "posted": "2026-09-01",
+      "posted": "2026-09-02",
       "verified_fresh": true,
-      "salary": "$76,608.00-$95,256.00 with potential growth to $120,814.00/ year",
-      "salary_min": 76608,
+      "salary": "$37.81/hour",
+      "salary_min": 78645,
       "track": "Operations Leadership",
-      "fit": 71,
+      "fit": 66,
       "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=004551&R3=0003",
-      "req": "26-004551-0003",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002481&R3=0001",
+      "req": "26-002481-0001",
       "why": [
         "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
         "Connects well with your healthcare, population-health, and community-health background."
       ],
       "gaps": [
@@ -229,11 +64,10 @@
       ],
       "keywords": [
         "operations",
-        "stakeholder",
         "contracts"
       ],
       "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the ACCOUNTANT SUPERVISOR I opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "cover": "I am interested in the MINORITY BUSINESS ENTERPRISE OFFICER II opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
       "status": "New"
     }
   ]
