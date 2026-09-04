@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T13:01:29.160659+00:00",
+  "generated_at": "2026-09-04T13:01:18.205174+00:00",
   "criteria": {
     "freshness_hours": 48,
     "salary_floor": 75000,
@@ -8,20 +8,88 @@
   },
   "jobs": [
     {
-      "id": "md-26-004488-0018",
-      "title": "SENIOR SALESFORCE QUALITY ANALYST , CONTRACTUAL (IT Systems Tenchincal Specialist)",
+      "id": "md-26-005476-0025",
+      "title": "Assistant Director, Family Investment Administration (Program Manager I)",
       "company": "State of Maryland",
       "location": "Maryland",
       "work_mode": "See posting",
-      "posted": "2026-09-02",
+      "posted": "2026-09-03",
       "verified_fresh": true,
-      "salary": "$55.53 - $67.69/hour",
-      "salary_min": 115502,
-      "track": "Operations Leadership",
+      "salary": "$81,750.00 - $105,759.00year with potential growth to $128,924.00/year.",
+      "salary_min": 81750,
+      "track": "Technology / IT Operations",
+      "fit": 92,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005476&R3=0025",
+      "req": "26-005476-0025",
+      "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Connects well with your healthcare, population-health, and community-health background."
+      ],
+      "gaps": [
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
+      ],
+      "keywords": [
+        "operations",
+        "program manager",
+        "contracts",
+        "service delivery",
+        "it program"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the Assistant Director, Family Investment Administration (Program Manager I) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    },
+    {
+      "id": "md-26-004486-0004",
+      "title": "IT STAFF SPECIALIST",
+      "company": "State of Maryland",
+      "location": "Maryland",
+      "work_mode": "See posting",
+      "posted": "2026-09-04",
+      "verified_fresh": true,
+      "salary": "$43.28/hour",
+      "salary_min": 90022,
+      "track": "Workforce / Strategic Programs",
+      "fit": 88,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=004486&R3=0004",
+      "req": "26-004486-0004",
+      "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience."
+      ],
+      "gaps": [
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
+      ],
+      "keywords": [
+        "operations",
+        "workforce development",
+        "stakeholder",
+        "contracts",
+        "data analysis"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the IT STAFF SPECIALIST opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    },
+    {
+      "id": "md-26-004413-0011",
+      "title": "COMPUTER NETWORK SPECIALIST II",
+      "company": "State of Maryland",
+      "location": "Maryland",
+      "work_mode": "See posting",
+      "posted": "2026-09-03",
+      "verified_fresh": true,
+      "salary": "$81,750.00 - $105,759.00/year with the growth potential to $128,924.00/year",
+      "salary_min": 81750,
+      "track": "Communications / External Affairs",
       "fit": 71,
       "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=004488&R3=0018",
-      "req": "26-004488-0018",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=004413&R3=0011",
+      "req": "26-004413-0011",
       "why": [
         "Strong overlap with your senior operations leadership and process-improvement background.",
         "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
@@ -32,42 +100,11 @@
       ],
       "keywords": [
         "operations",
-        "strategy",
+        "stakeholder",
         "contracts"
       ],
       "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the SENIOR SALESFORCE QUALITY ANALYST , CONTRACTUAL (IT Systems Tenchincal Specialist) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
-      "status": "New"
-    },
-    {
-      "id": "md-26-002481-0001",
-      "title": "MINORITY BUSINESS ENTERPRISE OFFICER II",
-      "company": "State of Maryland",
-      "location": "Maryland",
-      "work_mode": "See posting",
-      "posted": "2026-09-02",
-      "verified_fresh": true,
-      "salary": "$37.81/hour",
-      "salary_min": 78645,
-      "track": "Operations Leadership",
-      "fit": 66,
-      "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002481&R3=0001",
-      "req": "26-002481-0001",
-      "why": [
-        "Strong overlap with your senior operations leadership and process-improvement background.",
-        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
-        "Connects well with your healthcare, population-health, and community-health background."
-      ],
-      "gaps": [
-        "This is a stretch match; review the mandatory qualifications carefully before applying."
-      ],
-      "keywords": [
-        "operations",
-        "contracts"
-      ],
-      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the MINORITY BUSINESS ENTERPRISE OFFICER II opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "cover": "I am interested in the COMPUTER NETWORK SPECIALIST II opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
       "status": "New"
     }
   ]
