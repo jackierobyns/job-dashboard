@@ -1,10 +1,79 @@
 {
-  "generated_at": "2026-09-08T13:02:51.384682+00:00",
+  "generated_at": "2026-09-09T13:02:13.717080+00:00",
   "criteria": {
     "freshness_hours": 48,
     "salary_floor": 75000,
     "defense_and_elevated_clearance_roles": "excluded",
     "max_results": 10
   },
-  "jobs": []
+  "jobs": [
+    {
+      "id": "md-26-002589-0012",
+      "title": "ADMINISTRATOR IV (Data & Grants)",
+      "company": "State of Maryland",
+      "location": "Baltimore City Telework Eligible Yes Go Back Apply View Benefits Introduction",
+      "work_mode": "See posting",
+      "posted": "2026-09-08",
+      "verified_fresh": true,
+      "salary": "$81,750.00 - $128,924.00/year",
+      "salary_min": 81750,
+      "track": "Technology / IT Operations",
+      "fit": 92,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002589&R3=0012",
+      "req": "26-002589-0012",
+      "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Uses your Power BI/dashboard development and performance-reporting skills.",
+        "Matches your grant administration, review, compliance, and reporting experience."
+      ],
+      "gaps": [
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
+      ],
+      "keywords": [
+        "operations",
+        "grants",
+        "contracts",
+        "power bi",
+        "data analysis",
+        "it operations"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the ADMINISTRATOR IV (Data & Grants) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    },
+    {
+      "id": "md-26-005483-0030",
+      "title": "Program Manager Senior II (052913) (Director, Maryland Revitalization Programs)",
+      "company": "State of Maryland",
+      "location": "Maryland",
+      "work_mode": "See posting",
+      "posted": "2026-09-08",
+      "verified_fresh": true,
+      "salary": "$113,157 - $137,943/year (",
+      "salary_min": 113157,
+      "track": "Program / Project",
+      "fit": 81,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005483&R3=0030",
+      "req": "26-005483-0030",
+      "why": [
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience.",
+        "Matches your grant administration, review, compliance, and reporting experience."
+      ],
+      "gaps": [
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
+      ],
+      "keywords": [
+        "program manager",
+        "stakeholder",
+        "grants",
+        "contracts"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the Program Manager Senior II (052913) (Director, Maryland Revitalization Programs) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    }
+  ]
 }
