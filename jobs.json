@@ -1,44 +1,10 @@
 {
-  "generated_at": "2026-09-12T13:01:06.934496+00:00",
+  "generated_at": "2026-09-13T13:01:03.315287+00:00",
   "criteria": {
     "freshness_hours": 48,
     "salary_floor": 75000,
     "defense_and_elevated_clearance_roles": "excluded",
     "max_results": 10
   },
-  "jobs": [
-    {
-      "id": "md-26-005478-0032",
-      "title": "Deputy Chief of Special Projects (PROGRAM MANAGER III)",
-      "company": "authority, qualifications, and State",
-      "location": "Maryland",
-      "work_mode": "See posting",
-      "posted": "2026-09-11",
-      "verified_fresh": true,
-      "salary": "$93,138 - $146,883/year (based on agency authority, qualifications, and State salary rules)",
-      "salary_min": 93138,
-      "track": "Program / Project",
-      "fit": 86,
-      "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005478&R3=0032",
-      "req": "26-005478-0032",
-      "why": [
-        "Strong overlap with your senior operations leadership and process-improvement background.",
-        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
-        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience."
-      ],
-      "gaps": [
-        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
-      ],
-      "keywords": [
-        "operations",
-        "program manager",
-        "project management",
-        "contracts"
-      ],
-      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the Deputy Chief of Special Projects (PROGRAM MANAGER III) opportunity with authority, qualifications, and State because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
-      "status": "New"
-    }
-  ]
+  "jobs": []
 }
