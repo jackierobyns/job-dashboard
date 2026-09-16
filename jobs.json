@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T13:02:27.310255+00:00",
+  "generated_at": "2026-09-16T13:03:08.476989+00:00",
   "criteria": {
     "freshness_hours": 48,
     "salary_floor": 75000,
@@ -8,20 +8,20 @@
   },
   "jobs": [
     {
-      "id": "md-26-004488-0019",
-      "title": "IT SYSTEMS TECHNICAL SPECIALIST",
+      "id": "md-26-005472-0009",
+      "title": "Deputy Director of Communications (ADMIN PROGRAM MANAGER I)",
       "company": "State of Maryland",
-      "location": "Baltimore City Telework Eligible Yes Go Back Apply View Benefits",
+      "location": "Maryland",
       "work_mode": "See posting",
-      "posted": "2026-09-14",
+      "posted": "2026-09-15",
       "verified_fresh": true,
-      "salary": "$93,138.00 - $120,491.00/year, with potential growth to $146,883.00/year",
-      "salary_min": 93138,
-      "track": "Healthcare / Public Health",
-      "fit": 97,
+      "salary": "$81,750.00 - $107,875 Max (With potential growth to $128,924.00/year over time)",
+      "salary_min": 81750,
+      "track": "Workforce / Strategic Programs",
+      "fit": 99,
       "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=004488&R3=0019",
-      "req": "26-004488-0019",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005472&R3=0009",
+      "req": "26-005472-0009",
       "why": [
         "Strong overlap with your senior operations leadership and process-improvement background.",
         "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
@@ -32,76 +32,81 @@
       ],
       "keywords": [
         "operations",
-        "process improvement",
-        "public health",
+        "program manager",
+        "project management",
+        "strategy",
+        "workforce development",
+        "strategic communications",
         "stakeholder",
-        "contracts",
-        "it project"
+        "contracts"
       ],
       "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the IT SYSTEMS TECHNICAL SPECIALIST opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "cover": "I am interested in the Deputy Director of Communications (ADMIN PROGRAM MANAGER I) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
       "status": "New"
     },
     {
-      "id": "md-26-005473-0009",
-      "title": "Deputy Director, Office of Emergency Operations (ADMINISTRATIVE PROGRAM MANAGER II)",
+      "id": "md-26-005485-0005",
+      "title": "Chief of Digital Services (Program Manager Senior IV)",
       "company": "State of Maryland",
       "location": "Maryland",
       "work_mode": "See posting",
-      "posted": "2026-09-14",
+      "posted": "2026-09-15",
       "verified_fresh": true,
-      "salary": "$87,253.00 - $112,878.00/year with potential growth to $137,603.00/year",
-      "salary_min": 87253,
-      "track": "Program / Project",
-      "fit": 78,
+      "salary": "$166,648 - $183,996",
+      "salary_min": 166648,
+      "track": "Technology / IT Operations",
+      "fit": 95,
       "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005473&R3=0009",
-      "req": "26-005473-0009",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005485&R3=0005",
+      "req": "26-005485-0005",
       "why": [
-        "Strong overlap with your senior operations leadership and process-improvement background.",
         "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience.",
         "Connects well with your healthcare, population-health, and community-health background."
       ],
       "gaps": [
-        "SAP is mentioned and is not currently listed on your résumé."
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
       ],
       "keywords": [
-        "operations",
         "program manager",
-        "contracts"
+        "project management",
+        "strategy",
+        "stakeholder",
+        "contracts",
+        "service delivery"
       ],
       "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the Deputy Director, Office of Emergency Operations (ADMINISTRATIVE PROGRAM MANAGER II) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "cover": "I am interested in the Chief of Digital Services (Program Manager Senior IV) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
       "status": "New"
     },
     {
-      "id": "md-26-005483-0031",
-      "title": "Director, Multifamily Asset Management (045571) (Program Manager Sr. II)",
+      "id": "md-26-005477-0031",
+      "title": "PROGRAM MANAGER II (056751) (Deputy Director, Special Populations)",
       "company": "State of Maryland",
       "location": "Maryland",
       "work_mode": "See posting",
-      "posted": "2026-09-14",
+      "posted": "2026-09-15",
       "verified_fresh": true,
-      "salary": "$113,157.00 - $137,943.00/yr. (",
-      "salary_min": 113157,
-      "track": "Program / Project",
-      "fit": 70,
+      "salary": "$87,253 - $106,366/year (",
+      "salary_min": 87253,
+      "track": "Technology / IT Operations",
+      "fit": 77,
       "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005483&R3=0031",
-      "req": "26-005483-0031",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005477&R3=0031",
+      "req": "26-005477-0031",
       "why": [
-        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
-        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience."
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination."
       ],
       "gaps": [
-        "This is a stretch match; review the mandatory qualifications carefully before applying."
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
       ],
       "keywords": [
         "program manager",
-        "contracts"
+        "contracts",
+        "it program"
       ],
       "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the Director, Multifamily Asset Management (045571) (Program Manager Sr. II) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "cover": "I am interested in the PROGRAM MANAGER II (056751) (Deputy Director, Special Populations) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
       "status": "New"
     }
   ]
