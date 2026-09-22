@@ -1,10 +1,147 @@
 {
-  "generated_at": "2026-09-21T13:01:02.891278+00:00",
+  "generated_at": "2026-09-22T13:02:10.660053+00:00",
   "criteria": {
     "freshness_hours": 48,
     "salary_floor": 75000,
     "defense_and_elevated_clearance_roles": "excluded",
     "max_results": 10
   },
-  "jobs": []
+  "jobs": [
+    {
+      "id": "md-26-005474-0004",
+      "title": "PUBLIC AWARENESS PROGRAM MANAGER ((Administrative Program Manager III))",
+      "company": "State of Maryland",
+      "location": "Baltimore County Telework Eligible Yes Go Back Apply View Benefits",
+      "work_mode": "See posting",
+      "posted": "2026-09-21",
+      "verified_fresh": true,
+      "salary": "$93,138.00 - $120,491.00/year, with potential growth to $146,883.00/year",
+      "salary_min": 93138,
+      "track": "Healthcare / Public Health",
+      "fit": 99,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005474&R3=0004",
+      "req": "26-005474-0004",
+      "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience."
+      ],
+      "gaps": [
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
+      ],
+      "keywords": [
+        "operations",
+        "program manager",
+        "project management",
+        "public health",
+        "strategic communications",
+        "stakeholder",
+        "contracts"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the PUBLIC AWARENESS PROGRAM MANAGER ((Administrative Program Manager III)) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    },
+    {
+      "id": "md-26-002576-0018",
+      "title": "DPSCS MBE/ Socioeconomic Liaison (ADMINISTRATOR III SUPERVISOR)",
+      "company": "State of Maryland",
+      "location": "Maryland",
+      "work_mode": "See posting",
+      "posted": "2026-09-21",
+      "verified_fresh": true,
+      "salary": "$76,608.00- $82,924.00 w/ potential growth to $120,814.00 Yearly",
+      "salary_min": 76608,
+      "track": "Technology / IT Operations",
+      "fit": 92,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002576&R3=0018",
+      "req": "26-002576-0018",
+      "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience."
+      ],
+      "gaps": [
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
+      ],
+      "keywords": [
+        "operations",
+        "program manager",
+        "stakeholder",
+        "contracts",
+        "it operations"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the DPSCS MBE/ Socioeconomic Liaison (ADMINISTRATOR III SUPERVISOR) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    },
+    {
+      "id": "md-26-005802-0001",
+      "title": "SRPS NETWORK SYSTEMS ADMINISTRATOR II",
+      "company": "State of Maryland",
+      "location": "Maryland",
+      "work_mode": "See posting",
+      "posted": "2026-09-21",
+      "verified_fresh": true,
+      "salary": "$81,750 to $105,759 with potential growth to $128,924",
+      "salary_min": 81750,
+      "track": "Technology / IT Operations",
+      "fit": 86,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005802&R3=0001",
+      "req": "26-005802-0001",
+      "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience."
+      ],
+      "gaps": [
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
+      ],
+      "keywords": [
+        "operations",
+        "project management",
+        "stakeholder",
+        "contracts",
+        "it project"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the SRPS NETWORK SYSTEMS ADMINISTRATOR II opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    },
+    {
+      "id": "md-26-002052-0003",
+      "title": "LICENSING SPECIALIST (SOCIAL SERVICE ADMINISTRATOR III)",
+      "company": "State of Maryland",
+      "location": "Maryland",
+      "work_mode": "See posting",
+      "posted": "2026-09-21",
+      "verified_fresh": true,
+      "salary": "$76,608.00 - $99,105.00 /year with growth potential up to $120,814.00/year",
+      "salary_min": 76608,
+      "track": "Operations Leadership",
+      "fit": 71,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002052&R3=0003",
+      "req": "26-002052-0003",
+      "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Connects well with your healthcare, population-health, and community-health background."
+      ],
+      "gaps": [
+        "This is a stretch match; review the mandatory qualifications carefully before applying."
+      ],
+      "keywords": [
+        "operations",
+        "stakeholder",
+        "contracts"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the LICENSING SPECIALIST (SOCIAL SERVICE ADMINISTRATOR III) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    }
+  ]
 }
