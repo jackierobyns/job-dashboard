@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T13:02:36.213465+00:00",
+  "generated_at": "2026-09-25T13:03:20.684182+00:00",
   "criteria": {
     "freshness_hours": 48,
     "salary_floor": 75000,
@@ -8,20 +8,20 @@
   },
   "jobs": [
     {
-      "id": "md-26-007735-0004",
-      "title": "Program Analyst (ADMINISTRATOR IV)",
+      "id": "md-26-007876-0002",
+      "title": "Senior Data and Performance Manager (ADMINISTRATOR VI)",
       "company": "State of Maryland",
       "location": "Maryland",
       "work_mode": "See posting",
-      "posted": "2026-09-23",
+      "posted": "2026-09-24",
       "verified_fresh": true,
-      "salary": "$97,703 - $107,875/year",
-      "salary_min": 97703,
+      "salary": "$111,314 - $120,491/year",
+      "salary_min": 111314,
       "track": "Technology / IT Operations",
-      "fit": 99,
+      "fit": 93,
       "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=007735&R3=0004",
-      "req": "26-007735-0004",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=007876&R3=0002",
+      "req": "26-007876-0002",
       "why": [
         "Strong overlap with your senior operations leadership and process-improvement background.",
         "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
@@ -32,137 +32,65 @@
       ],
       "keywords": [
         "operations",
-        "program manager",
-        "program management",
-        "project management",
-        "process improvement",
+        "continuous improvement",
+        "performance management",
         "contracts",
         "analytics",
-        "it operations"
-      ],
-      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the Program Analyst (ADMINISTRATOR IV) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
-      "status": "New"
-    },
-    {
-      "id": "md-26-002576-0017",
-      "title": "ADMINISTRATOR III SUPERVISOR (Program Manager)",
-      "company": "State of Maryland",
-      "location": "Maryland",
-      "work_mode": "See posting",
-      "posted": "2026-09-23",
-      "verified_fresh": true,
-      "salary": "$76,608.00 - $120,814.00/year",
-      "salary_min": 76608,
-      "track": "Healthcare / Public Health",
-      "fit": 99,
-      "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002576&R3=0017",
-      "req": "26-002576-0017",
-      "why": [
-        "Strong overlap with your senior operations leadership and process-improvement background.",
-        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
-        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience."
-      ],
-      "gaps": [
-        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
-      ],
-      "keywords": [
-        "operations",
-        "program manager",
-        "stakeholder",
-        "contracts",
-        "it operations",
         "service delivery"
       ],
       "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the ADMINISTRATOR III SUPERVISOR (Program Manager) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "cover": "I am interested in the Senior Data and Performance Manager (ADMINISTRATOR VI) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
       "status": "New"
     },
     {
-      "id": "md-26-002589-0017",
-      "title": "Lead Research Data & Development Administrator (ADMINISTRATOR IV)",
+      "id": "md-26-001207-0004",
+      "title": "HCD COMMUNITY PROGRAM ADMINISTRATOR II (543290) (Permanent Supportive Housing (PSH) Coordinator)",
       "company": "State of Maryland",
       "location": "Maryland",
       "work_mode": "See posting",
-      "posted": "2026-09-23",
+      "posted": "2026-09-24",
       "verified_fresh": true,
-      "salary": "$81,750.00 - $105,759.00/year with potential growth up to $128,924.00/year",
-      "salary_min": 81750,
-      "track": "Technology / IT Operations",
-      "fit": 97,
-      "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002589&R3=0017",
-      "req": "26-002589-0017",
-      "why": [
-        "Strong overlap with your senior operations leadership and process-improvement background.",
-        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
-        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience."
-      ],
-      "gaps": [
-        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
-      ],
-      "keywords": [
-        "operations",
-        "project manager",
-        "contracts",
-        "contract management",
-        "data analysis",
-        "it operations"
-      ],
-      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the Lead Research Data & Development Administrator (ADMINISTRATOR IV) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
-      "status": "New"
-    },
-    {
-      "id": "md-26-002589-0016",
-      "title": "Training & Workforce Development Administrator (ADMINISTRATOR IV)",
-      "company": "State of Maryland",
-      "location": "Maryland",
-      "work_mode": "See posting",
-      "posted": "2026-09-23",
-      "verified_fresh": true,
-      "salary": "$81,750.00 - $105,759/year with potential growth up to $128,924.00/year",
-      "salary_min": 81750,
+      "salary": "$76,608.00 - $86,274.00/year (",
+      "salary_min": 76608,
       "track": "Workforce / Strategic Programs",
-      "fit": 92,
+      "fit": 88,
       "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002589&R3=0016",
-      "req": "26-002589-0016",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=001207&R3=0004",
+      "req": "26-001207-0004",
       "why": [
-        "Strong overlap with your senior operations leadership and process-improvement background.",
         "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
-        "Directly relevant to your workforce-development program experience in Baltimore."
+        "Directly relevant to your workforce-development program experience in Baltimore.",
+        "Connects well with your healthcare, population-health, and community-health background."
       ],
       "gaps": [
         "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
       ],
       "keywords": [
-        "operations",
         "strategy",
         "workforce development",
-        "contracts",
-        "it operations"
+        "performance management",
+        "stakeholder",
+        "contracts"
       ],
       "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the Training & Workforce Development Administrator (ADMINISTRATOR IV) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "cover": "I am interested in the HCD COMMUNITY PROGRAM ADMINISTRATOR II (543290) (Permanent Supportive Housing (PSH) Coordinator) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
       "status": "New"
     },
     {
-      "id": "md-26-007646-0001",
-      "title": "Data Scientist (EXEC AIDE V)",
+      "id": "md-26-002577-0006",
+      "title": "ADMINISTRATOR OF ARCHITECHTURAL RESEARCH (ADMINISTRATOR IV SUPERVISOR)",
       "company": "State of Maryland",
       "location": "Maryland",
       "work_mode": "See posting",
-      "posted": "2026-09-23",
+      "posted": "2026-09-24",
       "verified_fresh": true,
-      "salary": "$129,989 - $137,943/year",
-      "salary_min": 129989,
+      "salary": "$93,908.00-$103,685.00 with progresssion to $128,924.00/year",
+      "salary_min": 93908,
       "track": "Technology / IT Operations",
-      "fit": 87,
+      "fit": 81,
       "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=007646&R3=0001",
-      "req": "26-007646-0001",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002577&R3=0006",
+      "req": "26-002577-0006",
       "why": [
         "Strong overlap with your senior operations leadership and process-improvement background.",
         "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
@@ -173,76 +101,134 @@
       ],
       "keywords": [
         "operations",
-        "strategy",
-        "contracts",
-        "data analysis",
-        "analytics",
-        "service delivery"
-      ],
-      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the Data Scientist (EXEC AIDE V) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
-      "status": "New"
-    },
-    {
-      "id": "md-26-002588-0057",
-      "title": "ADMINISTRATOR III",
-      "company": "State of Maryland",
-      "location": "Maryland",
-      "work_mode": "See posting",
-      "posted": "2026-09-23",
-      "verified_fresh": true,
-      "salary": "$76,608.00 - $120,814.00/year",
-      "salary_min": 76608,
-      "track": "Technology / IT Operations",
-      "fit": 75,
-      "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002588&R3=0057",
-      "req": "26-002588-0057",
-      "why": [
-        "Strong overlap with your senior operations leadership and process-improvement background.",
-        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination."
-      ],
-      "gaps": [
-        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
-      ],
-      "keywords": [
-        "operations",
+        "grants",
         "contracts",
         "it operations"
       ],
       "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the ADMINISTRATOR III opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "cover": "I am interested in the ADMINISTRATOR OF ARCHITECHTURAL RESEARCH (ADMINISTRATOR IV SUPERVISOR) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
       "status": "New"
     },
     {
-      "id": "md-26-005056-0014",
-      "title": "Special Education Complaint Investigation Coordinator (Education Program Specialist II)",
+      "id": "md-26-006659-0001",
+      "title": "AFS Developer (IT SYSTEMS TECHNICAL SPECIALIST (REPOST))",
       "company": "State of Maryland",
       "location": "Maryland",
       "work_mode": "See posting",
-      "posted": "2026-09-23",
+      "posted": "2026-09-24",
       "verified_fresh": true,
-      "salary": "$99,442 - $128, 645 with progression to $156, 822",
-      "salary_min": 99442,
+      "salary": "$44.66 - $55.53/hour HR Analyst Mario West Work Location Baltimore City Telework Eligible Yes Go Back Apply View Benefits",
+      "salary_min": 92893,
       "track": "Operations Leadership",
-      "fit": 69,
+      "fit": 72,
       "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005056&R3=0014",
-      "req": "26-005056-0014",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=006659&R3=0001",
+      "req": "26-006659-0001",
       "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
         "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
-        "Uses your established SharePoint administration and collaboration experience."
+        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience."
       ],
       "gaps": [
         "This is a stretch match; review the mandatory qualifications carefully before applying."
       ],
       "keywords": [
-        "stakeholder",
+        "operations",
         "contracts",
-        "sharepoint"
+        "power bi"
       ],
       "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the Special Education Complaint Investigation Coordinator (Education Program Specialist II) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "cover": "I am interested in the AFS Developer (IT SYSTEMS TECHNICAL SPECIALIST (REPOST)) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    },
+    {
+      "id": "md-26-001086-0001",
+      "title": "PUBLIC HEALTH LABORATORY SCIENTIST GENERAL III",
+      "company": "State of Maryland",
+      "location": "Baltimore City Go Back Apply View Benefits",
+      "work_mode": "See posting",
+      "posted": "2026-09-24",
+      "verified_fresh": true,
+      "salary": "$87,253.00 - $112,878.00/year, with potential growth to $137,603.00/year",
+      "salary_min": 87253,
+      "track": "Healthcare / Public Health",
+      "fit": 68,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=001086&R3=0001",
+      "req": "26-001086-0001",
+      "why": [
+        "Connects well with your healthcare, population-health, and community-health background."
+      ],
+      "gaps": [
+        "This is a stretch match; review the mandatory qualifications carefully before applying."
+      ],
+      "keywords": [
+        "public health",
+        "contracts"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the PUBLIC HEALTH LABORATORY SCIENTIST GENERAL III opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    },
+    {
+      "id": "md-26-004555-0001",
+      "title": "CHIEF OF GENERAL ACCOUNTING ((Accountant Manager III))",
+      "company": "State of Maryland",
+      "location": "Baltimore City Telework Eligible Yes Go Back Apply View Benefits",
+      "work_mode": "See posting",
+      "posted": "2026-09-24",
+      "verified_fresh": true,
+      "salary": "$99,442.00 - $156,822.00/year",
+      "salary_min": 99442,
+      "track": "Operations Leadership",
+      "fit": 66,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=004555&R3=0001",
+      "req": "26-004555-0001",
+      "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Connects well with your healthcare, population-health, and community-health background."
+      ],
+      "gaps": [
+        "This is a stretch match; review the mandatory qualifications carefully before applying."
+      ],
+      "keywords": [
+        "operations",
+        "contracts"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the CHIEF OF GENERAL ACCOUNTING ((Accountant Manager III)) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    },
+    {
+      "id": "md-26-004919-0002",
+      "title": "HR ADMINISTRATOR II (Employee Relations Manager)",
+      "company": "State of Maryland",
+      "location": "Maryland",
+      "work_mode": "See posting",
+      "posted": "2026-09-24",
+      "verified_fresh": true,
+      "salary": "$81,750.00 - $128,924.00/year",
+      "salary_min": 81750,
+      "track": "Workforce / Strategic Programs",
+      "fit": 66,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=004919&R3=0002",
+      "req": "26-004919-0002",
+      "why": [
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Directly relevant to your workforce-development program experience in Baltimore.",
+        "Connects well with your healthcare, population-health, and community-health background."
+      ],
+      "gaps": [
+        "This is a stretch match; review the mandatory qualifications carefully before applying."
+      ],
+      "keywords": [
+        "performance management",
+        "contracts"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the HR ADMINISTRATOR II (Employee Relations Manager) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
       "status": "New"
     }
   ]
