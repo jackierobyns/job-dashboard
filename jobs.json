@@ -1,104 +1,10 @@
 {
-  "generated_at": "2026-09-26T13:00:54.737661+00:00",
+  "generated_at": "2026-09-27T13:01:04.889286+00:00",
   "criteria": {
     "freshness_hours": 48,
     "salary_floor": 75000,
     "defense_and_elevated_clearance_roles": "excluded",
     "max_results": 10
   },
-  "jobs": [
-    {
-      "id": "md-26-005472-0010",
-      "title": "DIRECTOR, CENTRAL SERVICES (ADMINISTRATIVE PROGRAM MANAGER I)",
-      "company": "State of Maryland",
-      "location": "Maryland",
-      "work_mode": "See posting",
-      "posted": "2026-09-25",
-      "verified_fresh": true,
-      "salary": "$81,750.00 - $128,924.00/year",
-      "salary_min": 81750,
-      "track": "Workforce / Strategic Programs",
-      "fit": 86,
-      "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005472&R3=0010",
-      "req": "26-005472-0010",
-      "why": [
-        "Strong overlap with your senior operations leadership and process-improvement background.",
-        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
-        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience."
-      ],
-      "gaps": [
-        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
-      ],
-      "keywords": [
-        "operations",
-        "program manager",
-        "project management",
-        "contracts"
-      ],
-      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the DIRECTOR, CENTRAL SERVICES (ADMINISTRATIVE PROGRAM MANAGER I) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
-      "status": "New"
-    },
-    {
-      "id": "md-26-005477-0032",
-      "title": "PROGRAM MANAGER II (056698) (Portfolio Administrator, Multifamily Asset Mngt)",
-      "company": "State of Maryland",
-      "location": "Maryland",
-      "work_mode": "See posting",
-      "posted": "2026-09-25",
-      "verified_fresh": true,
-      "salary": "$87,253.00 - $106,366/yr. (",
-      "salary_min": 87253,
-      "track": "Program / Project",
-      "fit": 70,
-      "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005477&R3=0032",
-      "req": "26-005477-0032",
-      "why": [
-        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination."
-      ],
-      "gaps": [
-        "This is a stretch match; review the mandatory qualifications carefully before applying."
-      ],
-      "keywords": [
-        "program manager",
-        "contracts"
-      ],
-      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the PROGRAM MANAGER II (056698) (Portfolio Administrator, Multifamily Asset Mngt) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
-      "status": "New"
-    },
-    {
-      "id": "md-26-004919-0001",
-      "title": "HR DEPUTY ASSISTANT DIRECTOR FOR CSA (HR ADMINISTRATOR II)",
-      "company": "State of Maryland",
-      "location": "Maryland",
-      "work_mode": "See posting",
-      "posted": "2026-09-25",
-      "verified_fresh": true,
-      "salary": "$81,750.00 - $105,759.00/year with growth potential up to $128,924.00/year",
-      "salary_min": 81750,
-      "track": "Operations Leadership",
-      "fit": 66,
-      "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=004919&R3=0001",
-      "req": "26-004919-0001",
-      "why": [
-        "Strong overlap with your senior operations leadership and process-improvement background.",
-        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
-        "Connects well with your healthcare, population-health, and community-health background."
-      ],
-      "gaps": [
-        "This is a stretch match; review the mandatory qualifications carefully before applying."
-      ],
-      "keywords": [
-        "operations",
-        "contracts"
-      ],
-      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the HR DEPUTY ASSISTANT DIRECTOR FOR CSA (HR ADMINISTRATOR II) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
-      "status": "New"
-    }
-  ]
+  "jobs": []
 }
