@@ -1,10 +1,47 @@
 {
-  "generated_at": "2026-09-27T13:01:04.889286+00:00",
+  "generated_at": "2026-09-28T13:03:30.788774+00:00",
   "criteria": {
     "freshness_hours": 48,
     "salary_floor": 75000,
     "defense_and_elevated_clearance_roles": "excluded",
     "max_results": 10
   },
-  "jobs": []
+  "jobs": [
+    {
+      "id": "md-26-005220-0002",
+      "title": "COMMUNICATIONS DIRECTOR (DESIGNATED ADMIN MANAGER II)",
+      "company": "State of Maryland",
+      "location": "Maryland",
+      "work_mode": "See posting",
+      "posted": "2026-09-28",
+      "verified_fresh": true,
+      "salary": "$117,439 to $124,629/year",
+      "salary_min": 117439,
+      "track": "Communications / External Affairs",
+      "fit": 98,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005220&R3=0002",
+      "req": "26-005220-0002",
+      "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Connects well with your healthcare, population-health, and community-health background.",
+        "Leverages your communications education and executive/public communications experience."
+      ],
+      "gaps": [
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
+      ],
+      "keywords": [
+        "operations",
+        "strategy",
+        "strategic communications",
+        "chief of staff",
+        "stakeholder",
+        "contracts",
+        "analytics"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the COMMUNICATIONS DIRECTOR (DESIGNATED ADMIN MANAGER II) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    }
+  ]
 }
