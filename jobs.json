@@ -1,10 +1,84 @@
 {
-  "generated_at": "2026-10-12T21:26:12.634515+00:00",
+  "generated_at": "2026-10-13T19:35:31.461838+00:00",
   "criteria": {
     "freshness_hours": 48,
     "salary_floor": 75000,
     "defense_and_elevated_clearance_roles": "excluded",
     "max_results": 10
   },
-  "jobs": []
+  "jobs": [
+    {
+      "id": "md-26-004495-0003",
+      "title": "CHIEF INFORMATION OFFICER (IT DIRECTOR II)",
+      "company": "State of Maryland",
+      "location": "Maryland",
+      "work_mode": "See posting",
+      "posted": "2026-10-12",
+      "verified_fresh": true,
+      "salary": "$113,157.00 - $132,586/year",
+      "salary_min": 113157,
+      "track": "Technology / IT Operations",
+      "fit": 99,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=004495&R3=0003",
+      "req": "26-004495-0003",
+      "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Connects well with your healthcare, population-health, and community-health background."
+      ],
+      "gaps": [
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
+      ],
+      "keywords": [
+        "operations",
+        "strategy",
+        "contracts",
+        "vendor management",
+        "analytics",
+        "it operations",
+        "service delivery",
+        "technology operations",
+        "it program"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the CHIEF INFORMATION OFFICER (IT DIRECTOR II) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    },
+    {
+      "id": "remoteok-1137498",
+      "title": "Senior Sales Executive Central Region",
+      "company": "SimSpace Corporation",
+      "location": "Remote",
+      "work_mode": "Remote",
+      "posted": "2026-10-12",
+      "verified_fresh": true,
+      "salary": "$145,000–$220,000",
+      "salary_min": 145000,
+      "track": "Communications / External Affairs",
+      "fit": 86,
+      "source": "Remote OK public job feed",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-executive-central-region-simspace-corporation-1137498",
+      "req": "",
+      "why": [
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Connects well with your healthcare, population-health, and community-health background.",
+        "Leverages your communications education and executive/public communications experience."
+      ],
+      "gaps": [
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
+      ],
+      "keywords": [
+        "strategy",
+        "continuous improvement",
+        "stakeholder",
+        "grants",
+        "contracts",
+        "analytics"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the Senior Sales Executive Central Region opportunity with SimSpace Corporation because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    }
+  ]
 }
