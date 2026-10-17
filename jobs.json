@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T17:01:25.580833+00:00",
+  "generated_at": "2026-10-17T15:59:59.515530+00:00",
   "criteria": {
     "freshness_hours": 48,
     "salary_floor": 75000,
@@ -8,20 +8,20 @@
   },
   "jobs": [
     {
-      "id": "md-26-002578-0010",
-      "title": "PROVIDER POLICY & COMMUNICATIONS, DIVISION CHIEF (ADMINISTRATOR V SUPERVISOR)",
+      "id": "md-26-002589-0023",
+      "title": "Geospatial Web Applications Developer (ADMINISTRATOR IV)",
       "company": "State of Maryland",
       "location": "Maryland",
       "work_mode": "See posting",
-      "posted": "2026-10-15",
+      "posted": "2026-10-16",
       "verified_fresh": true,
-      "salary": "$87,253.00 - $137,603.00/year",
-      "salary_min": 87253,
-      "track": "Communications / External Affairs",
-      "fit": 75,
+      "salary": "$81,750.00-$128,924.00",
+      "salary_min": 81750,
+      "track": "Technology / IT Operations",
+      "fit": 94,
       "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002578&R3=0010",
-      "req": "26-002578-0010",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002589&R3=0023",
+      "req": "26-002589-0023",
       "why": [
         "Strong overlap with your senior operations leadership and process-improvement background.",
         "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
@@ -32,11 +32,111 @@
       ],
       "keywords": [
         "operations",
+        "stakeholder",
         "contracts",
+        "power bi",
+        "dashboard",
+        "analytics",
         "it operations"
       ],
       "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the PROVIDER POLICY & COMMUNICATIONS, DIVISION CHIEF (ADMINISTRATOR V SUPERVISOR) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "cover": "I am interested in the Geospatial Web Applications Developer (ADMINISTRATOR IV) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    },
+    {
+      "id": "remoteok-1137536",
+      "title": "Director of Product Management and IT Operations",
+      "company": "Self Bill Pro",
+      "location": "Remote",
+      "work_mode": "Remote",
+      "posted": "2026-10-16",
+      "verified_fresh": true,
+      "salary": "$130,000–$160,000",
+      "salary_min": 130000,
+      "track": "Technology / IT Operations",
+      "fit": 83,
+      "source": "Remote OK public job feed",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536",
+      "req": "",
+      "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience."
+      ],
+      "gaps": [
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
+      ],
+      "keywords": [
+        "operations",
+        "project management",
+        "stakeholder",
+        "it operations"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the Director of Product Management and IT Operations opportunity with Self Bill Pro because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    },
+    {
+      "id": "md-26-005479-0028",
+      "title": "SMALL, MINORITY, WOMEN-OWNED BUSINESS ACCOUNT PROGRAM MANAGER (PROGRAM MANAGER IV)",
+      "company": "State of Maryland",
+      "location": "Maryland",
+      "work_mode": "See posting",
+      "posted": "2026-10-16",
+      "verified_fresh": true,
+      "salary": "$99,442.00 - $156,822.00/year",
+      "salary_min": 99442,
+      "track": "Program / Project",
+      "fit": 83,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005479&R3=0028",
+      "req": "26-005479-0028",
+      "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience."
+      ],
+      "gaps": [
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
+      ],
+      "keywords": [
+        "operations",
+        "program manager",
+        "stakeholder",
+        "contracts"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the SMALL, MINORITY, WOMEN-OWNED BUSINESS ACCOUNT PROGRAM MANAGER (PROGRAM MANAGER IV) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    },
+    {
+      "id": "md-26-005897-0007",
+      "title": "Adult Basic Education (ABE) Instructor (TEACHER ADVANCED PROFESSIONAL CERTIFICATE)",
+      "company": "State of Maryland",
+      "location": "Maryland",
+      "work_mode": "See posting",
+      "posted": "2026-10-16",
+      "verified_fresh": true,
+      "salary": "$83,574.00 - $147,544.00/year",
+      "salary_min": 83574,
+      "track": "Workforce / Strategic Programs",
+      "fit": 77,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005897&R3=0007",
+      "req": "26-005897-0007",
+      "why": [
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Directly relevant to your workforce-development program experience in Baltimore."
+      ],
+      "gaps": [
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
+      ],
+      "keywords": [
+        "workforce development",
+        "contracts",
+        "it program"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the Adult Basic Education (ABE) Instructor (TEACHER ADVANCED PROFESSIONAL CERTIFICATE) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
       "status": "New"
     },
     {
@@ -69,36 +169,6 @@
       ],
       "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
       "cover": "I am interested in the GIS Analyst Lead/ Advanced opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
-      "status": "New"
-    },
-    {
-      "id": "md-26-002434-0001",
-      "title": "ENVIRONMENTAL HEALTH SPECIALIST MANAGER II",
-      "company": "State of Maryland",
-      "location": "Maryland",
-      "work_mode": "See posting",
-      "posted": "2026-10-15",
-      "verified_fresh": true,
-      "salary": "$93,138.00 - $146,883.00/year",
-      "salary_min": 93138,
-      "track": "Healthcare / Public Health",
-      "fit": 68,
-      "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002434&R3=0001",
-      "req": "26-002434-0001",
-      "why": [
-        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
-        "Connects well with your healthcare, population-health, and community-health background."
-      ],
-      "gaps": [
-        "This is a stretch match; review the mandatory qualifications carefully before applying."
-      ],
-      "keywords": [
-        "public health",
-        "contracts"
-      ],
-      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the ENVIRONMENTAL HEALTH SPECIALIST MANAGER II opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
       "status": "New"
     }
   ]
