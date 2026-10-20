@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:51:53.803709+00:00",
+  "generated_at": "2026-10-20T17:35:53.439721+00:00",
   "criteria": {
     "freshness_hours": 48,
     "salary_floor": 75000,
@@ -7,6 +7,111 @@
     "max_results": 10
   },
   "jobs": [
+    {
+      "id": "md-26-005483-0038",
+      "title": "PROGRAM MANAGER SENIOR II (Deputy of Customer Services)",
+      "company": "State of Maryland",
+      "location": "Maryland",
+      "work_mode": "See posting",
+      "posted": "2026-10-20",
+      "verified_fresh": true,
+      "salary": "$113,157.00 - $178,453.00/year",
+      "salary_min": 113157,
+      "track": "Technology / IT Operations",
+      "fit": 99,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005483&R3=0038",
+      "req": "26-005483-0038",
+      "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Connects well with your healthcare, population-health, and community-health background."
+      ],
+      "gaps": [
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
+      ],
+      "keywords": [
+        "operations",
+        "program manager",
+        "organizational effectiveness",
+        "stakeholder",
+        "contracts",
+        "service delivery"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the PROGRAM MANAGER SENIOR II (Deputy of Customer Services) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    },
+    {
+      "id": "md-26-005056-0015",
+      "title": "Project Manager for Online Testing (Education Program Specialist II)",
+      "company": "budget allowance; State",
+      "location": "Maryland",
+      "work_mode": "See posting",
+      "posted": "2026-10-20",
+      "verified_fresh": true,
+      "salary": "$99,442 - $121,223; with progression to $156,822",
+      "salary_min": 99442,
+      "track": "Program / Project",
+      "fit": 99,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005056&R3=0015",
+      "req": "26-005056-0015",
+      "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience."
+      ],
+      "gaps": [
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
+      ],
+      "keywords": [
+        "operations",
+        "program manager",
+        "project manager",
+        "process improvement",
+        "stakeholder",
+        "contracts"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the Project Manager for Online Testing (Education Program Specialist II) opportunity with budget allowance; State because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    },
+    {
+      "id": "md-26-002589-0020",
+      "title": "TECHNICAL WRITER (ADMINISTRATOR IV)",
+      "company": "State of Maryland",
+      "location": "Baltimore City Telework Eligible Yes Go Back Apply View Benefits",
+      "work_mode": "See posting",
+      "posted": "2026-10-19",
+      "verified_fresh": true,
+      "salary": "$81,750.00 - $105,759.00/year, with potential growth to $128,924.00/year",
+      "salary_min": 81750,
+      "track": "Healthcare / Public Health",
+      "fit": 97,
+      "source": "State of Maryland official careers",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002589&R3=0020",
+      "req": "26-002589-0020",
+      "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
+        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
+        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience."
+      ],
+      "gaps": [
+        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
+      ],
+      "keywords": [
+        "operations",
+        "public health",
+        "stakeholder",
+        "contracts",
+        "contract management",
+        "it operations"
+      ],
+      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
+      "cover": "I am interested in the TECHNICAL WRITER (ADMINISTRATOR IV) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "status": "New"
+    },
     {
       "id": "md-26-005037-0003",
       "title": "Sr. Investment Analyst II Quantitative - Public Equity Unit (Sr. Investment Analyst II MSRP - 005037)",
