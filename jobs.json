@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:52:09.550639+00:00",
+  "generated_at": "2026-11-04T20:06:21.638339+00:00",
   "criteria": {
     "freshness_hours": 48,
     "salary_floor": 75000,
@@ -8,117 +8,55 @@
   },
   "jobs": [
     {
-      "id": "md-26-001649-0001",
-      "title": "MDL IT Programmer Analyst Supervisor",
-      "company": "State of Maryland",
-      "location": "Baltimore City Go Back Apply View Benefits Introduction",
-      "work_mode": "See posting",
-      "posted": "2026-11-02",
+      "id": "remoteok-1137674",
+      "title": "Sales Operations Analyst",
+      "company": "Calabrio",
+      "location": "Remote",
+      "work_mode": "Remote",
+      "posted": "2026-11-03",
       "verified_fresh": true,
-      "salary": "$93,138.00 - $120,491 with potential growth up to $146,883.00/year",
-      "salary_min": 93138,
-      "track": "Technology / IT Operations",
+      "salary": "$75,000–$75,000",
+      "salary_min": 75000,
+      "track": "Workforce / Strategic Programs",
       "fit": 87,
-      "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=001649&R3=0001",
-      "req": "26-001649-0001",
+      "source": "Remote OK public job feed",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-calabrio-1137674",
+      "req": "",
       "why": [
+        "Strong overlap with your senior operations leadership and process-improvement background.",
         "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
-        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience.",
-        "Connects well with your healthcare, population-health, and community-health background."
+        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience."
       ],
       "gaps": [
         "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
       ],
       "keywords": [
-        "project manager",
-        "stakeholder",
-        "contracts",
-        "it project",
+        "operations",
+        "power bi",
+        "dashboard",
+        "data analysis",
+        "analytics",
         "it program"
       ],
       "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the MDL IT Programmer Analyst Supervisor opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "cover": "I am interested in the Sales Operations Analyst opportunity with Calabrio because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
       "status": "New"
     },
     {
-      "id": "md-26-002588-0062",
-      "title": "ADMINISTRATOR III (Compliance Analyst)",
+      "id": "md-26-005479-0032",
+      "title": "Assistant Director (Program Manager IV) (Compliance Division)",
       "company": "State of Maryland",
       "location": "Maryland",
       "work_mode": "See posting",
-      "posted": "2026-11-02",
+      "posted": "2026-11-04",
       "verified_fresh": true,
-      "salary": "$76,608.00 - $120,814.00/year",
-      "salary_min": 76608,
-      "track": "Technology / IT Operations",
-      "fit": 80,
-      "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002588&R3=0062",
-      "req": "26-002588-0062",
-      "why": [
-        "Strong overlap with your senior operations leadership and process-improvement background.",
-        "Matches your project-management, scheduling, stakeholder, and executive-reporting experience."
-      ],
-      "gaps": [
-        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
-      ],
-      "keywords": [
-        "operations",
-        "stakeholder",
-        "contracts",
-        "it operations"
-      ],
-      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the ADMINISTRATOR III (Compliance Analyst) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
-      "status": "New"
-    },
-    {
-      "id": "md-26-003006-0008",
-      "title": "Procurement Manager I",
-      "company": "State of Maryland",
-      "location": "Maryland",
-      "work_mode": "See posting",
-      "posted": "2026-11-02",
-      "verified_fresh": true,
-      "salary": "$99,442.00 with potential growth up to $156,822.00/year",
+      "salary": "$99,442.00 - $156,822.00/year",
       "salary_min": 99442,
-      "track": "Operations Leadership",
+      "track": "Program / Project",
       "fit": 78,
       "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=003006&R3=0008",
-      "req": "26-003006-0008",
-      "why": [
-        "Strong overlap with your senior operations leadership and process-improvement background.",
-        "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination."
-      ],
-      "gaps": [
-        "No obvious clearance or defense requirement was detected; still review mandatory qualifications before applying."
-      ],
-      "keywords": [
-        "operations",
-        "business operations",
-        "contracts"
-      ],
-      "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the Procurement Manager I opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
-      "status": "New"
-    },
-    {
-      "id": "md-26-002576-0028",
-      "title": "ADMINISTRATOR III SUPERVISOR (Nursery Manager)",
-      "company": "State of Maryland",
-      "location": "Maryland",
-      "work_mode": "See posting",
-      "posted": "2026-11-02",
-      "verified_fresh": true,
-      "salary": "$76,608.00 - $120,814.00/year",
-      "salary_min": 76608,
-      "track": "Technology / IT Operations",
-      "fit": 75,
-      "source": "State of Maryland official careers",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002576&R3=0028",
-      "req": "26-002576-0028",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=005479&R3=0032",
+      "req": "26-005479-0032",
       "why": [
         "Strong overlap with your senior operations leadership and process-improvement background.",
         "Relevant to your 10+ years of program management, planning, reporting, and cross-functional coordination.",
@@ -129,11 +67,11 @@
       ],
       "keywords": [
         "operations",
-        "contracts",
-        "it operations"
+        "program manager",
+        "contracts"
       ],
       "summary": "Senior operations and program management leader with 10+ years of experience across federal civilian operations, healthcare, workforce development, community engagement, contracts, dashboards, performance improvement, and executive support. Skilled in cross-functional project execution, stakeholder management, data-driven reporting, SharePoint, Power BI, Excel, SOP development, and continuous improvement.",
-      "cover": "I am interested in the ADMINISTRATOR III SUPERVISOR (Nursery Manager) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
+      "cover": "I am interested in the Assistant Director (Program Manager IV) (Compliance Division) opportunity with State of Maryland because it aligns with my background in operations, program and project management, stakeholder coordination, performance improvement, and executive-level support. My experience spans federal civilian operations, healthcare, workforce development, community initiatives, and data-driven organizational improvement.",
       "status": "New"
     }
   ]
